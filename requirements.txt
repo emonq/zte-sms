@@ -1,0 +1,5 @@
+python-dotenv
+pyopenssl
+httpx[http2]
+requests
+rich
